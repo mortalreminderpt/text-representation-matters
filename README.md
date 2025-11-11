@@ -15,7 +15,7 @@ uv pip install -r requirements.txt
 
 2. Environment variable
 
-Please prepare `.env` in the root of project and set the `OPENAI_API_KEY` (For convenient testing, it has been provided).
+Please prepare `.env` in the root of project and set the `OPENAI_API_KEY`.
 
 ## Dataset Preparation
 
